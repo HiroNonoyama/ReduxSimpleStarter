@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import SearchBar from './components/search_bar';
 
-const API_KEY = 'AIzaSyBJB0iNLbrxasUAb2quH7enqhTa5OhY95M';
+const API_KEY = '';
 
 
 // Create a new component. This component should produce
