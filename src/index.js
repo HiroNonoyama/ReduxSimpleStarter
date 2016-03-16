@@ -7,6 +7,10 @@ import VideoList from './components/video_lists.js';
 import VideoDetail from './components/video_details';
 const API_KEY = 'AIzaSyDlhTmvDl7zNwLBXNWSaHhEgwKmpjETnbw';
 
+<<<<<<< HEAD
+=======
+const API_KEY = '';
+>>>>>>> 798177dd5dbac1b418e27be1b5afc57e61064397
 
 
 // Create a new component. This component should produce
